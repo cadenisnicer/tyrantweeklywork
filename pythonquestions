@@ -1,0 +1,135 @@
+Print statements  
+
+Examples of print words  
+
+List examples   
+
+Ex.  >Print (‘hello world’)  
+
+Output hello world  
+
+ 
+
+print(“hello world”) 
+
+Output: hello world 
+
+ 
+
+print(“hello\nworld”) 
+
+Output: 
+
+hello 
+
+world 
+
+ 
+
+print(“hello”,  end=’\n’) 
+
+Output: 
+
+hello 
+
+world 
+
+ 
+
+print(“world”)  
+
+Output: world 
+
+ 
+
+Examples of printing numbers  
+
+List examples  
+
+Ex.  > 20+5  
+
+Output is 25   
+
+ 
+
+print(20+5) 
+
+Output: 25 
+
+ 
+print(10+19) 
+
+Output: 29 
+
+ 
+
+print(2) 
+
+Output: 2 
+
+  
+
+Concatenation: 
+Concatenate is a process of combining two or more strings into a single larger string.  
+
+Examples: 
+
+Python: Uses the + operator to join strings. For example, first_name = “John” last_name = “Doe” full_name = first_name + ” “ + last_name sets full_name to "John Doe". 
+SQL: Uses the operator || to join strings. 
+
+  
+
+List relational operators  
+
+== (equal to) 
+
+!= (not equal to)  
+
+< (less than) 
+
+> (greater than)  
+
+<= (less than or equal to)  
+
+>= (greater than or equal to) 
+
+  
+
+Logical operators: 
+AND (often represented by && or "and"): 
+
+This operator returns true only if both conditions being evaluated are true.  
+
+OR (|| or "or"): 
+
+This operator returns true if at least one of the conditions being evaluated is true.  
+
+NOT ( ! or "not"): 
+
+This operator reverses the truth value of a condition, meaning it returns true if the condition is false and vice versa.  
+
+  
+
+Lab1  
+
+x = True y = False  
+
+ # Output: x and y is ?  
+
+ print('x and y is',x and y)   
+
+# Output: x or y is ?  
+
+print('x or y is',x or y)  
+
+ # Output: not x is ?  
+
+ print('not x is',not x)  
+
+ 
+
+x and y is False 
+
+x and y is True 
+
+x and y is True 
